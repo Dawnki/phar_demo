@@ -1,6 +1,6 @@
 <?php
 
-//require_once __DIR__."/src/controller.php";
+require_once __DIR__."/src/controller.php";
 
 echo "starting";
 
